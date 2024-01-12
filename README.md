@@ -1,2 +1,3 @@
 # Patco-Holdings
-Mining and commodity trader site, list of products and contact info.
+The company website is undergoing a redesign as per the client's request.
+Awaiting figma design to start. 
